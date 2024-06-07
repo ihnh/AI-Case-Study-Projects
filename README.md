@@ -1,1 +1,3 @@
-# Building-Book-Recommendation-App-in-Azure
+<p align="center">
+  <img src="banner.jpeg" alt="banner">
+</p>
